@@ -1,0 +1,26 @@
+body {
+    margin: 2cm;
+    background-color: bisque;
+}
+/*
+h1 {
+    height: 35px;
+    width: 100%;
+    opacity: .9;
+    margin-bottom: 10px;
+    text-align: center; 
+    color: blanchedalmond; 
+    background-color: indigo;
+}
+*/
+
+h1 {
+    background-color: blue;
+    color: aliceblue;
+}
+button {
+    color: blanchedalmond; 
+    background-color:indigo; 
+    width: 3cm; 
+    height: 1cm;
+}
